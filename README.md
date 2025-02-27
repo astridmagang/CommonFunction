@@ -1,2 +1,2 @@
 # CommonFunction
-Function yg sering saya juga dalam kebutuhan development.
+Function yg sering saya pakai dalam kebutuhan development.
